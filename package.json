@@ -1,0 +1,24 @@
+{
+  "name": "bitpix",
+  "version": "1.0.0",
+  "description": "A TypeScript-based library with React and Node.js.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "base64",
+    "bitpix"
+  ],
+  "author": "gazi2050",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.5.2",
+    "@types/react": "^18.3.5",
+    "react": "^18.3.1",
+    "typescript": "^5.5.4"
+  }
+}
