@@ -4,7 +4,9 @@ Need to upload images to your web application but hate the hassle of dealing wit
 
 Whether you're building a dynamic web app or a quick image uploader for a client, **bitpix** lets you focus on what matters by handling image conversion and compression in one streamlined package.
 
----
+## Demo
+Check out the [demo](https://bitpix-demo1.surge.sh).
+
 
 ## Core Function: `convertImageToBase64`
 

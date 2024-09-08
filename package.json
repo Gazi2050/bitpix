@@ -1,7 +1,7 @@
 {
   "name": "bitpix",
-  "version": "1.0.0",
-  "description": "A TypeScript-based library with React and Node.js.",
+  "version": "1.0.1",
+  "description": "A package for converting and compressing images to base64 format with quality control and size limits.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "homepage": "https://github.com/Gazi2050/bitpix",
