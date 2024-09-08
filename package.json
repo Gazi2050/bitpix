@@ -4,6 +4,10 @@
   "description": "A TypeScript-based library with React and Node.js.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://github.com/Gazi2050/bitpix",
+  "repository": {
+    "url": "https://github.com/Gazi2050/bitpix"
+  },
   "scripts": {
     "build": "tsc"
   },
